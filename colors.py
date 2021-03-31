@@ -4,7 +4,7 @@ import csv
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatch
 
-__author__ = "Christopher Potts"
+__author__ = "Christopher Potts "
 __version__ = "CS224u, Stanford, Spring 2021"
 
 
